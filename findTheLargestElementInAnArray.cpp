@@ -26,7 +26,6 @@ int main() {
         if (*(ptr + j) > *ptr){
             
             ptr = (ptr + j);
-            //printf("#%d run\n", j);
             
         }
         
